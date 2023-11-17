@@ -2,4 +2,4 @@
 title: Home page
 ---
 
-This text is displayed at the website root.
+Hi Cisco Live.
